@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/task-project/static/css/main.b152903a.chunk.css",
+    "main.js": "/task-project/static/js/main.f04e0694.chunk.js",
+    "main.js.map": "/task-project/static/js/main.f04e0694.chunk.js.map",
+    "runtime-main.js": "/task-project/static/js/runtime-main.4e22d410.js",
+    "runtime-main.js.map": "/task-project/static/js/runtime-main.4e22d410.js.map",
+    "static/css/2.6c0f60ba.chunk.css": "/task-project/static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.04d65541.chunk.js": "/task-project/static/js/2.04d65541.chunk.js",
+    "static/js/2.04d65541.chunk.js.map": "/task-project/static/js/2.04d65541.chunk.js.map",
+    "index.html": "/task-project/index.html",
+    "static/css/2.6c0f60ba.chunk.css.map": "/task-project/static/css/2.6c0f60ba.chunk.css.map",
+    "static/css/main.b152903a.chunk.css.map": "/task-project/static/css/main.b152903a.chunk.css.map",
+    "static/js/2.04d65541.chunk.js.LICENSE.txt": "/task-project/static/js/2.04d65541.chunk.js.LICENSE.txt",
+    "static/media/course1.eec0f80e.jpg": "/task-project/static/media/course1.eec0f80e.jpg",
+    "static/media/course2.6f030180.png": "/task-project/static/media/course2.6f030180.png",
+    "static/media/course3.fc978012.jpg": "/task-project/static/media/course3.fc978012.jpg",
+    "static/media/university-image.0c8630a9.jpg": "/task-project/static/media/university-image.0c8630a9.jpg",
+    "static/media/university.5e92a694.jpg": "/task-project/static/media/university.5e92a694.jpg",
+    "static/media/university2.6cf20985.jpg": "/task-project/static/media/university2.6cf20985.jpg",
+    "static/media/university3.7a45c83a.png": "/task-project/static/media/university3.7a45c83a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e22d410.js",
+    "static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.04d65541.chunk.js",
+    "static/css/main.b152903a.chunk.css",
+    "static/js/main.f04e0694.chunk.js"
+  ]
+}
